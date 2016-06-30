@@ -13,6 +13,7 @@
 				<string>#9D550FB0</string>
 				<key>background</key>
 				<string>#111111</string>
+
 				<key>bracketContentsForeground</key>
 				<string>#FF5722</string>
 				<key>bracketContentsOptions</key>
@@ -21,6 +22,7 @@
 				<string>#FF5722</string>
 				<key>bracketsOptions</key>
 				<string>foreground</string>
+				
 				<key>caret</key>
 				<string>#FFCC00</string>
 				<key>findHighlight</key>
