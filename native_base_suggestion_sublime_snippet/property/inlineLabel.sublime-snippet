@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[inlineLabel]]></content>
+    <tabTrigger>inlineLabel</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Property</description>
+</snippet>

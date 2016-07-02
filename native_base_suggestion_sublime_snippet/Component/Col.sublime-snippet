@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Col]]></content>
+    <tabTrigger>Col</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Component</description>
+</snippet>

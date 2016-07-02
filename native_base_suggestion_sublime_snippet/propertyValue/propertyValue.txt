@@ -1,0 +1,6 @@
+ios-home
+ios-arrow-forward
+ios-arrow-back
+ios-star
+ios-close-circle
+ios-musical-notes

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[InputGroup]]></content>
+    <tabTrigger>InputGroup</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Component</description>
+</snippet>

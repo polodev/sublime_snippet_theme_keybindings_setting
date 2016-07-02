@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[large]]></content>
+    <tabTrigger>large</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Property</description>
+</snippet>

@@ -1,0 +1,54 @@
+//Badge and Button
+style   -   -   Defines button style
+textStyle   -   -   Defines button text style
+block   -   -   Block level button
+rounded -   -   Renders button with slightly round shaped edges.
+bordered    -   -   Applies outline button style.
+transparent -   -   Gives you effect of Icon-buttons.
+small   -   -   For small size button
+large   -   -   For large size button
+iconLeft    -   -   Used for Icon alignment.
+iconRight
+primary (default)
+success
+info
+warning
+danger
+backgroundColor 
+block
+rounded
+name
+small: for small size button.
+large: for large size button.
+
+//Card
+header  -   -   Displays both as header and footer for cards.
+note    -   -   Sub caption for Card header.
+cardBody
+source
+note
+style
+
+//Form
+inlineLabel
+stackedLabel
+placeholder
+
+//input group
+placeholder -   -   The string that will be rendered before text input has been entered. Optional user-defined placeholder for textbox.
+borderType  underline   regular 
+secureTextEntry
+
+//List
+itemDivider
+note
+
+//progressbar
+
+progress
+
+
+//thumbnail
+source  -   -   Image path for thumbnail.
+square  -   -   Represents shape of thumbnail.
+size

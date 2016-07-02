@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[stackedLabel]]></content>
+    <tabTrigger>stackedLabel</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Property</description>
+</snippet>

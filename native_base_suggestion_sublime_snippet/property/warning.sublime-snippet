@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[warning]]></content>
+    <tabTrigger>warning</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Property</description>
+</snippet>

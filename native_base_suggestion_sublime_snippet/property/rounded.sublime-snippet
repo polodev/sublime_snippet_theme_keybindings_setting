@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rounded]]></content>
+    <tabTrigger>rounded</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Property</description>
+</snippet>

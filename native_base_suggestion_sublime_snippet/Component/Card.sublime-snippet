@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Card]]></content>
+    <tabTrigger>Card</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Component</description>
+</snippet>

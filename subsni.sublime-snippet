@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}}]]></content>
+    <tabTrigger>sub</tabTrigger>
+</snippet>
+

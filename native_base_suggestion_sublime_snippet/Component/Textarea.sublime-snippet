@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Textarea]]></content>
+    <tabTrigger>Textarea</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Component</description>
+</snippet>

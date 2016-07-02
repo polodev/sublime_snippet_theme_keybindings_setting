@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[cardBody]]></content>
+    <tabTrigger>cardBody</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Property</description>
+</snippet>

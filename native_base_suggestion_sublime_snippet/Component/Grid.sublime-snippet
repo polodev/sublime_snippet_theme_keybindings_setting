@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Grid]]></content>
+    <tabTrigger>Grid</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Component</description>
+</snippet>

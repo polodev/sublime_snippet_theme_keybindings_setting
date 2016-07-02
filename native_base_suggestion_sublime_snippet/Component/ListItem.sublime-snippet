@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ListItem]]></content>
+    <tabTrigger>ListItem</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Component</description>
+</snippet>

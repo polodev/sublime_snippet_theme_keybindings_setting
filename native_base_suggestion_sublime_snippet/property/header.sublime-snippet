@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[header]]></content>
+    <tabTrigger>header</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Property</description>
+</snippet>

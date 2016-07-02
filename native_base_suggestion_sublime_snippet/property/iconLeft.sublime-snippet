@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[iconLeft]]></content>
+    <tabTrigger>iconLeft</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Property</description>
+</snippet>

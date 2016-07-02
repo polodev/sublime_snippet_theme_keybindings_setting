@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bordered]]></content>
+    <tabTrigger>bordered</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Property</description>
+</snippet>

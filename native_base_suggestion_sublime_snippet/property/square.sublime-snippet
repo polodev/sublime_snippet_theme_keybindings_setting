@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[square]]></content>
+    <tabTrigger>square</tabTrigger>
+    <scope>source.js</scope>
+    <description>Native Base Property</description>
+</snippet>
