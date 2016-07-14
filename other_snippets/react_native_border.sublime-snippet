@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+borderColor : 'red',
+borderWidth : 5,
+borderStyle : 'solid',
+]]></content>
+    <tabTrigger>rnbt</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Border Test</description>
+</snippet>
