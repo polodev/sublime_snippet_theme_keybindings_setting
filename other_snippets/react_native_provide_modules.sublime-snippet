@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * @providesModule ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}}
+ * @flow
+ */
+]]></content>
+    <tabTrigger>providesModule</tabTrigger>
+    <scope>source.js</scope>
+    <description>providesModule for namespace like php in react native file</description>
+</snippet>

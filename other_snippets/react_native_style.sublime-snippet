@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+style={styles.$0}
+]]></content>
+    <tabTrigger>rns</tabTrigger>
+    <scope>source.js</scope>
+    <description>providesModule for namespace like php in react native file</description>
+</snippet>
