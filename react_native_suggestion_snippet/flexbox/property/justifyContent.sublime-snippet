@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[justifyContent]]></content>
+    <content><![CDATA[justifyContent : ${1:'center'},]]></content>
     <tabTrigger>justifyContent</tabTrigger>
     <scope>source.js</scope>
     <description>React Native flexbox</description>

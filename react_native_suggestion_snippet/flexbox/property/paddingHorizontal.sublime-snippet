@@ -1,8 +1,6 @@
 <snippet>
-    <content><![CDATA[
-paddingHorizontal
-]]></content>
+    <content><![CDATA[paddingHorizontal : ${1:10}, ]]></content>
     <tabTrigger>paddingHorizontal</tabTrigger>
     <scope>source.js</scope>
-    <description>React Native flexbox</description>
+    <description>React Native flexbox & View ...</description>
 </snippet>

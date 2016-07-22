@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[borderTopWidth]]></content>
+    <content><![CDATA[borderTopWidth : ${1:2},]]></content>
     <tabTrigger>borderTopWidth</tabTrigger>
     <scope>source.js</scope>
-    <description>React Native flexbox</description>
+    <description>React Native flexbox & View ...</description>
 </snippet>

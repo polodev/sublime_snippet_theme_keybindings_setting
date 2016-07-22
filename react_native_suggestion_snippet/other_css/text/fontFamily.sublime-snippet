@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[fontFamily]]></content>
+    <content><![CDATA[fontFamily : ${1:'arial'},]]></content>
     <tabTrigger>fontFamily</tabTrigger>
     <scope>source.js</scope>
     <description>React Native Text Style</description>

@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[height]]></content>
+    <content><![CDATA[height : ${1: 10},]]></content>
     <tabTrigger>height</tabTrigger>
     <scope>source.js</scope>
-    <description>React Native flexbox</description>
+    <description>React Native flexbox & View ...</description>
 </snippet>

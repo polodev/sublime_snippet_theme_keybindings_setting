@@ -1,7 +1,5 @@
 <snippet>
-    <content><![CDATA[
-width
-]]></content>
+    <content><![CDATA[width : ${1:10}, ]]></content>
     <tabTrigger>width</tabTrigger>
     <scope>source.js</scope>
     <description>React Native flexbox</description>
