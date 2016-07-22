@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[textShadowOffset]]></content>
+    <content><![CDATA[textShadowOffset: ${1: {width: 2, height: 2}},]]></content>
     <tabTrigger>textShadowOffset</tabTrigger>
     <scope>source.js</scope>
     <description>React Native Text Style</description>

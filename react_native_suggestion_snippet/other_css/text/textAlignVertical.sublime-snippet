@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[textAlignVertical]]></content>
+    <content><![CDATA[textAlignVertical : ${1:'center'},]]></content>
     <tabTrigger>textAlignVertical</tabTrigger>
     <scope>source.js</scope>
     <description>React Native Text Style</description>

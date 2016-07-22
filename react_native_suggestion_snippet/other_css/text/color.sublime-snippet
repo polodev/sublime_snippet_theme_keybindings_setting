@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[color]]></content>
+    <content><![CDATA[color : ${1:'#e3e3e3'},]]></content>
     <tabTrigger>color</tabTrigger>
     <scope>source.js</scope>
     <description>React Native Text Style</description>

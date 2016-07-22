@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[fontStyle]]></content>
+    <content><![CDATA[fontStyle : ${1:'italic'},]]></content>
     <tabTrigger>fontStyle</tabTrigger>
     <scope>source.js</scope>
     <description>React Native Text Style</description>
