@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+@media screen and (max-width : 991px) {
+  
+}
+@media screen and (max-width : 767px) {
+  
+}
+@media screen and (max-width : 479px) {
+  
+}
+@media screen and (max-width : 361px) {
+  
+}
+]]></content>
+    <tabTrigger>css_media_max</tabTrigger>
+</snippet>

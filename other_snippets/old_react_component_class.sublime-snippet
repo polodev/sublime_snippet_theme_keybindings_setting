@@ -1,0 +1,20 @@
+<snippet>
+    <content><![CDATA[
+var React = require('react')
+
+var ${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}} = React.createClass({
+  render: function() {
+    return(
+      <div>
+      </div>
+    );
+  }
+});
+
+module.exports = ${1:${TM_FILENAME/(.+)\..+(.+)\..+|.*/$1/:ComponentName}} ;
+
+]]></content>
+    <tabTrigger>orcc</tabTrigger>
+    <scope>source.js -(meta)</scope>
+    <description>React: old class component</description>
+</snippet>
