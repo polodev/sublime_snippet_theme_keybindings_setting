@@ -24,7 +24,18 @@
                                     
   ]
 },
+//for vintage mode toggle
 {"keys": ["ctrl+t"], "command": "toggle_setting", "args": {"setting": "vintage_lines.force_mode"}},
-{"keys": ["ctrl+alt+y"], "command": "toggle_setting", "args": {"setting": "line_numbers"} }
+//for toggling line number
+{"keys": ["ctrl+alt+y"], "command": "toggle_setting", "args": {"setting": "line_numbers"} },
+//origami key binding
+{ "keys": [",", "v", "s", "p"], "command": "carry_file_to_pane", "args": {"direction": "right"} },
+{ "keys": [",", "s", "p"], "command": "carry_file_to_pane", "args": {"direction": "down"} },
+{ "keys": [",", "b", "d"], "command": "destroy_pane", "args": {"direction": "self"} },
+//for column selection i am reversing sublime key bindings with scroll_lines
+{ "keys": ["ctrl+shift+up"], "command": "scroll_lines", "args": {"amount": 1.0} },
+{ "keys": ["ctrl+shift+down"], "command": "scroll_lines", "args": {"amount": -1.0} },
+{ "keys": ["ctrl+alt+up"], "command": "select_lines", "args": {"forward": false} },
+{ "keys": ["ctrl+alt+down"], "command": "select_lines", "args": {"forward": true} },
       
 ]
