@@ -24,6 +24,10 @@
                                     
   ]
 },
+//for changing tab like vim  style
+
+{ "keys": [",", "g", "r"], "command": "next_view_in_stack" },
+{ "keys": [",", "g", "t"], "command": "prev_view_in_stack" },
 //for vintage mode toggle
 {"keys": ["ctrl+t"], "command": "toggle_setting", "args": {"setting": "vintage_lines.force_mode"}},
 //for toggling line number
@@ -39,3 +43,4 @@
 { "keys": ["ctrl+alt+down"], "command": "select_lines", "args": {"forward": true} },
       
 ]
+

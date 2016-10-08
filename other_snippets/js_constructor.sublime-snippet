@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-constructor(props) {
-  super(props)
+constructor() {
+	super();
 }
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
