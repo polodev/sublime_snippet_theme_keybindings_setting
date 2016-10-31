@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+getMutation() {
+  return Relay.QL `mutation {${1}} `
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>getMutation</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <description>GraphQL</description>
+    <!-- <scope>source.python</scope> -->
+</snippet>

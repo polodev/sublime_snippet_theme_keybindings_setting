@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+toGlobalId    	
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>toGlobalId</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <description>GraphQL</description>
+    <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+getFatQuery() {
+	return Relay.QL `
+		fragment on ${1}Payload @relay(pattern: true) {
+			type : ${2}
+		}
+	`
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>getFatQuery</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <description>GraphQL</description>
+    <!-- <scope>source.python</scope> -->
+</snippet>
