@@ -3,11 +3,23 @@
 mutationWithClientMutationId({
   name: '${1}',
   inputFields: {
+    ${2}
   },
   outputFields: {
+    ${6}Edge : {
+      type : ${6}Edge,
+      resolve : ({${7}}) => {
+        ${8}
+        return {
+          node : ${9},
+          cursor : cursorForObjectInConnection(${10}, ${11})
+        }
+      }
+    }
   },
-  mutateAndGetPayload: ({}) => {
-	   return {};
+  mutateAndGetPayload: ({${3}}) => {
+    ${4}
+    return {$5};
   }
 });
 ]]></content>
