@@ -3,7 +3,7 @@
 getFatQuery() {
 	return Relay.QL `
 		fragment on ${1}Payload @relay(pattern: true) {
-			type : ${2}
+		  ${2}
 		}
 	`
 }
