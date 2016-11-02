@@ -1,9 +1,12 @@
 <snippet>
     <content><![CDATA[
-NODE_DELETE
+mutateAndGetPayload : ({${1}}) => {
+	${2}
+  return {};
+}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>NODE_DELETE</tabTrigger>
+    <tabTrigger>mutateAndGetPayload</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <description>GraphQL</description>
     <!-- <scope>source.python</scope> -->

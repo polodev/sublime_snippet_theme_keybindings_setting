@@ -1,6 +1,12 @@
 <snippet>
     <content><![CDATA[
-connectionDefinitions    	
+const {
+	connectionType: ${1}, 
+	edgeType: ${2}, 
+	} = connectionDefinitions({
+	name: '${3}', 
+	nodeType: ${4} 
+});
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>connectionDefinitions</tabTrigger>

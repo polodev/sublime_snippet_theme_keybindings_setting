@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-connectionType    	
+connectionType
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>connectionType</tabTrigger>

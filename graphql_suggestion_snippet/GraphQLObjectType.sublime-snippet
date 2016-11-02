@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-GraphQLObjectType    	
+GraphQLObjectType
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>GraphQLObjectType</tabTrigger>

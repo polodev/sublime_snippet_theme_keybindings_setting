@@ -1,6 +1,15 @@
 <snippet>
     <content><![CDATA[
-mutationWithClientMutationId
+mutationWithClientMutationId({
+  name: '${1}',
+  inputFields: {
+  },
+  outputFields: {
+  },
+  mutateAndGetPayload: ({}) => {
+	   return {};
+  }
+});
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>mutationWithClientMutationId</tabTrigger>
