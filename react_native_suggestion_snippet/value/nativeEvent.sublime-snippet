@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[nativeEvent]]></content>
+    <tabTrigger>nativeEvent</tabTrigger>
+    <scope>source.js</scope>
+    <description>Event trigger when textInput happen :nativeEvent.text </description>
+</snippet>
