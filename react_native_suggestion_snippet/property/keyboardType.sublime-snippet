@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[keyboardType]]></content>
+    <tabTrigger>keyboardType</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :enum('default', 'email-address', 'numeric', 'phone-pad', 'ascii-capable', 'numbers-and-punctuation', 'url', 'number-pad', 'name-phone-pad', 'decimal-pad', 'twitter', 'web-search') </description>
+</snippet>

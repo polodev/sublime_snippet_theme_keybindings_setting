@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onLayout]]></content>
+    <tabTrigger>onLayout</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :func invoke in mount and layout change</description>
+</snippet>

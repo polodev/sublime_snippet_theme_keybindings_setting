@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[selectTextOnFocus]]></content>
+    <tabTrigger>selectTextOnFocus</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :bool</description>
+</snippet>

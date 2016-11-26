@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[selection]]></content>
+    <tabTrigger>selection</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :{start: number, end: number}</description>
+</snippet>

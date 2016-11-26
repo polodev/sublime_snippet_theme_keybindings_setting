@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onSubmitEditing]]></content>
+    <tabTrigger>onSubmitEditing</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :func Invalid if multiline={true} is specified</description>
+</snippet>

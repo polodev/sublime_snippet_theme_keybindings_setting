@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[autoFocus]]></content>
+    <tabTrigger>autoFocus</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :bool </description>
+</snippet>

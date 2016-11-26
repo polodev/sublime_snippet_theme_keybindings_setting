@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onChange]]></content>
+    <tabTrigger>onChange</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :func </description>
+</snippet>

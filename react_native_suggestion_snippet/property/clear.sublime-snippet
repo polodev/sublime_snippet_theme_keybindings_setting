@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[clear]]></content>
+    <tabTrigger>clear</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :Method(to clear textInput) </description>
+</snippet>

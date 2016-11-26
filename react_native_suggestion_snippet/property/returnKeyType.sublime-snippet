@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[returnKeyType]]></content>
+    <tabTrigger>returnKeyType</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :string</description>
+</snippet>

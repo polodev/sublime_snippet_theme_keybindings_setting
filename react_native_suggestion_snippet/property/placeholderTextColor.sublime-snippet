@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[placeholderTextColor]]></content>
+    <tabTrigger>placeholderTextColor</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :color</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onBlur]]></content>
+    <tabTrigger>onBlur</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :func </description>
+</snippet>

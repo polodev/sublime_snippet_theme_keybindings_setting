@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[blurOnSubmit]]></content>
+    <tabTrigger>blurOnSubmit</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :bool </description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[autoCapitalize]]></content>
+    <tabTrigger>autoCapitalize</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native TextInput Props :enum('none', 'sentences', 'words', 'characters') </description>
+</snippet>
