@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${1}={this.state${2:.}.${1}}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>rps</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <description>React passing props from state</description>
+    <!-- <scope>source.python</scope> -->
+</snippet>
