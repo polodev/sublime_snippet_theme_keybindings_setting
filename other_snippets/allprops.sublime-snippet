@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-${1}={this.props${2:.}.${1}}
+console.log("all props inside ${1:${TM_FILENAME}} ", this.props);
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>rpp</tabTrigger>
+    <tabTrigger>allprops</tabTrigger>
+    <description>For Basic debuging console all props in react component</description>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <description>React passing props from props</description>
     <scope>source.js</scope>
 </snippet>

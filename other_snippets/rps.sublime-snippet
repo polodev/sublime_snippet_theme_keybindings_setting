@@ -6,5 +6,5 @@ ${1}={this.state${2:.}.${1}}
     <tabTrigger>rps</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <description>React passing props from state</description>
-    <!-- <scope>source.python</scope> -->
+    <scope>source.js</scope>
 </snippet>
