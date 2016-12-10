@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+const mapDispatchToProps = (dispatch) => ({
+  ${1:programsActions} : bindActionCreators(${1:programsActions}, dispatch)
+});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>mapDispatchToProps</tabTrigger>
+    <description>2nd parameter for react-redux connect function</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>

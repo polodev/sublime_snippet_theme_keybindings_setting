@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+export default connect(mapStateToProps, mapDispatchToProps)(${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>connectCom</tabTrigger>
+    <description>connect component with redux store</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>

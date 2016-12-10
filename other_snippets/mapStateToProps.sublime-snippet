@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+const mapStateToProps = (state) => ({
+    ${1:programsInfo} : state.${1:programsInfo},
+})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>mapStateToProps</tabTrigger>
+    <description>first parameter for react-redux connect function</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.js</scope>
+</snippet>
