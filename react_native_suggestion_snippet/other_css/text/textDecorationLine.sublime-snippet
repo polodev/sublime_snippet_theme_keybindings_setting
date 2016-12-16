@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[textDecorationLine : ${1:'underline'},]]></content>
+    <content><![CDATA[textDecorationLine: ${1:'underline'},]]></content>
     <tabTrigger>textDecorationLine</tabTrigger>
     <scope>source.js</scope>
     <description>React Native Text Style</description>

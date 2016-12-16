@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[left : ${1:10},]]></content>
+    <content><![CDATA[left: ${1:10},]]></content>
     <tabTrigger>left</tabTrigger>
     <scope>source.js</scope>
     <description>React Native flexbox </description>

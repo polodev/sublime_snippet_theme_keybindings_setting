@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[flexDirection : ${1:'row'},]]></content>
+    <content><![CDATA[flexDirection: ${1:'row'},]]></content>
     <tabTrigger>flexDirection</tabTrigger>
     <scope>source.js</scope>
     <description>React Native flexbox</description>

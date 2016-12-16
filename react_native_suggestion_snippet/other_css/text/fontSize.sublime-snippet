@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[fontSize : ${1:12},]]></content>
+    <content><![CDATA[fontSize: ${1:12},]]></content>
     <tabTrigger>fontSize</tabTrigger>
     <scope>source.js</scope>
     <description>React Native Text Style</description>

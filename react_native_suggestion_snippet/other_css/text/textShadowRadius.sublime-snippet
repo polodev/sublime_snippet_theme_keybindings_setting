@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[textShadowRadius : ${1:1},]]></content>
+    <content><![CDATA[textShadowRadius: ${1:1},]]></content>
     <tabTrigger>textShadowRadius</tabTrigger>
     <scope>source.js</scope>
     <description>React Native Text Style</description>

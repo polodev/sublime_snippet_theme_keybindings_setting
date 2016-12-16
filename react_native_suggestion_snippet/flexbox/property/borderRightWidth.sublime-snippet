@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[borderRightWidth : ${1:2},]]></content>
+    <content><![CDATA[borderRightWidth: ${1:2},]]></content>
     <tabTrigger>borderRightWidth</tabTrigger>
     <scope>source.js</scope>
     <description>React Native flexbox & View ...</description>

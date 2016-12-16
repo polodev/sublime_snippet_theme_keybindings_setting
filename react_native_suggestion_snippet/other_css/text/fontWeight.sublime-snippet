@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[fontWeight : ${1:'bold'},]]></content>
+    <content><![CDATA[fontWeight: ${1:'bold'},]]></content>
     <tabTrigger>fontWeight</tabTrigger>
     <scope>source.js</scope>
     <description>React Native Text Style</description>

@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[alignSelf : ${1:'center'},]]></content>
+    <content><![CDATA[alignSelf: ${1:'center'},]]></content>
     <tabTrigger>alignSelf</tabTrigger>
     <scope>source.js</scope>
     <description>React Native flexbox</description>

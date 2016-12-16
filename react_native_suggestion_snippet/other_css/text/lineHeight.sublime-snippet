@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[lineHeight : ${1:20},]]></content>
+    <content><![CDATA[lineHeight: ${1:20},]]></content>
     <tabTrigger>lineHeight</tabTrigger>
     <scope>source.js</scope>
     <description>React Native Text Style</description>
