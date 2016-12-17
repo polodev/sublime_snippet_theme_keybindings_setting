@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-console.log("all states inside ${1:${TM_FILENAME}} ", this.state);
+console.log('all states inside ${1:${TM_FILENAME}}', this.state)
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>allstates</tabTrigger>

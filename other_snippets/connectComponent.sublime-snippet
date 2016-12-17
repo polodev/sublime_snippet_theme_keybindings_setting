@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-export default connect(mapStateToProps, mapDispatchToProps)(${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}});
+export default connect(mapStateToProps, mapDispatchToProps)(${1:${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}})
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>connectCom</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-var React = require('react');
+var React = require('react')
 
 ]]></content>
     <tabTrigger>rer</tabTrigger>

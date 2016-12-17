@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
 const mapDispatchToProps = (dispatch) => ({
-  ${1:programsActions} : bindActionCreators(${1:programsActions}, dispatch)
-});
+  ${1:programsActions}: bindActionCreators(${1:programsActions}, dispatch)
+})
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>mapDispatchToProps</tabTrigger>

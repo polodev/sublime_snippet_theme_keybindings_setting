@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-module.exports = ${1:${TM_FILENAME/(.+)\..+(.+)\..+|.*/$1/:ComponentName}} ;
+module.exports = ${1:${TM_FILENAME/(.+)\..+(.+)\..+|.*/$1/:ComponentName}}
 
 ]]></content>
     <tabTrigger>mef</tabTrigger>

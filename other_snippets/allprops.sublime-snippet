@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-console.log("all props inside ${1:${TM_FILENAME}} ", this.props);
+console.log('all props inside ${1:${TM_FILENAME}}', this.props)
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>allprops</tabTrigger>
