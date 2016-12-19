@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[marginLeft: ${1:10}, ]]></content>
+    <content><![CDATA[marginLeft: ${1:10},]]></content>
     <tabTrigger>marginLeft</tabTrigger>
     <scope>source.js</scope>
     <description>React Native flexbox & View ...</description>
