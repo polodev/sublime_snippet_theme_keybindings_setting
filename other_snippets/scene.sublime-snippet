@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-<Scene ${2:initial} key='${1:HomeScreen}' component={${1:HomeScreen}} title='${1:HomeScreen}' />
+<Scene ${3:initial} key='${1:HomeScreen}' component={${1:HomeScreen}} title='${1:HomeScreen}' ${2:hideNavBar} />
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>scene</tabTrigger>
