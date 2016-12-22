@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+const { StatusBarManager } = NativeModules
+let statusBarHeight = 40
+StatusBarManager.getHeight((SBHeight) => {
+  statusBarHeight = SBHeight.height
+})]]></content>
+    <tabTrigger>statusbarheight</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native statusBarHeight determination</description>
+</snippet>
