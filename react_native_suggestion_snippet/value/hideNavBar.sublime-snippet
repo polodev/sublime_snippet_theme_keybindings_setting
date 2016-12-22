@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hideNavBar]]></content>
+    <tabTrigger>hideNavBar</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Scene hideNavBar</description>
+</snippet>

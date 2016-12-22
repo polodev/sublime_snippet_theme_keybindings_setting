@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[initial]]></content>
+    <tabTrigger>initial</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Scene initial</description>
+</snippet>
