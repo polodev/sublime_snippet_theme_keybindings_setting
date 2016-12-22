@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[<StatusBar barStyle='dark-content'/>]]></content>
+    <content><![CDATA[<StatusBar barStyle='dark-content' />]]></content>
     <tabTrigger>rnStatusBar</tabTrigger>
     <scope>source.js</scope>
     <description>React Native api</description>
