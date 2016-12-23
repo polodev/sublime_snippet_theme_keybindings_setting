@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[currentHeight]]></content>
+    <tabTrigger>currentHeight</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native api</description>
+</snippet>

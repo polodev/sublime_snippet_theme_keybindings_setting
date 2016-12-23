@@ -1,10 +1,15 @@
 <snippet>
     <content><![CDATA[
-const { StatusBarManager } = NativeModules
 let statusBarHeight = 40
-StatusBarManager.getHeight((SBHeight) => {
-  statusBarHeight = SBHeight.height
-})]]></content>
+if (Platform.OS === 'ios') {
+  const { StatusBarManager } = NativeModules
+  StatusBarManager.getHeight((SBHeight) => {
+    statusBarHeight = SBHeight.height
+  })
+} else {
+  statusBarHeight = StatusBar.currentHeight
+}
+]]></content>
     <tabTrigger>statusbarheight</tabTrigger>
     <scope>source.js</scope>
     <description>React Native statusBarHeight determination</description>
