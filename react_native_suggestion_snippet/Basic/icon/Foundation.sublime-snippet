@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Foundation]]></content>
+    <tabTrigger>Foundation</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Vector Icon</description>
+</snippet>

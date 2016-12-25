@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Zocial]]></content>
+    <tabTrigger>Zocial</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Vector Icon</description>
+</snippet>

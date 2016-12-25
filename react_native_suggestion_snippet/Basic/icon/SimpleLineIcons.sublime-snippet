@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[SimpleLineIcons]]></content>
+    <tabTrigger>SimpleLineIcons</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Vector Icon</description>
+</snippet>

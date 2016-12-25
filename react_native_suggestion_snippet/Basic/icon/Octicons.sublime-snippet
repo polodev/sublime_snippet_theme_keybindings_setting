@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Octicons]]></content>
+    <tabTrigger>Octicons</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Vector Icon</description>
+</snippet>
