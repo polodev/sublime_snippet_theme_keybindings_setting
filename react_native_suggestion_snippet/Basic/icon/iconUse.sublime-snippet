@@ -1,7 +1,5 @@
 <snippet>
-    <content><![CDATA[
-<Icon name='${1:md-arrow-back}' size={${2:20}} color='${3:#333}' />
-      ]]></content>
+    <content><![CDATA[<Icon name='${1:md-arrow-back}' size={${2:20}} color='${3:#333}' />]]></content>
     <tabTrigger>iconUse</tabTrigger>
     <scope>source.js</scope>
     <description>React Native Vector Icon</description>
