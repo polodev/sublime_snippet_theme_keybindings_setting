@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[<Form
+  ref='form'
+  type={Address}
+  options={options}
+  value={this.state.formDefaultValue}
+/>]]></content>
+    <tabTrigger>tcombform</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Basic</description>
+</snippet>

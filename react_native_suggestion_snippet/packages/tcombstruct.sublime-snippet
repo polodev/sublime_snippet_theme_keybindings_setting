@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[var Address = t.struct({
+  name: t.String,
+  pincode: t.Number
+})]]></content>
+    <tabTrigger>tcombstruct</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Basic</description>
+</snippet>

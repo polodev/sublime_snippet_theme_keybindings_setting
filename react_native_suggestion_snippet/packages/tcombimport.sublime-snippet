@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[var t = require('tcomb-form-native')
+var Form = t.form.Form]]></content>
+    <tabTrigger>tcombimport</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Basic</description>
+</snippet>

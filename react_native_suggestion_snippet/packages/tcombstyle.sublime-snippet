@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[var _ = require('lodash')
+// clone the default stylesheet
+const commonTextStyle = _.cloneDeep(Form.stylesheet)
+// overriding the text color
+commonTextStyle.textbox.normal.color = '#333']]></content>
+    <tabTrigger>tcombformstyle</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Basic</description>
+</snippet>
