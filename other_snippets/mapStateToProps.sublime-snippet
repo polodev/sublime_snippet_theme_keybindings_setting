@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 const mapStateToProps = (state) => ({
-    ${1:programsInfo}: state.${1:programsInfo},
+  ${1:programsInfo}: state.${1:programsInfo}
 })
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
