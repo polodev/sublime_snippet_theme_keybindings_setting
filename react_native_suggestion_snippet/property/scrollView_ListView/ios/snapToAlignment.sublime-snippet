@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[snapToAlignment]]></content>
+    <tabTrigger>snapToAlignment</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ScrollView ios Property</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[snapToInterval]]></content>
+    <tabTrigger>snapToInterval</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ScrollView ios Property</description>
+</snippet>

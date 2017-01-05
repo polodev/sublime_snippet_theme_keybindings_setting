@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[showsVerticalScrollIndicator]]></content>
+    <tabTrigger>showsVerticalScrollIndicator</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ScrollView Property</description>
+</snippet>

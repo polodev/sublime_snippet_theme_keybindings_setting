@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[pagingEnabled]]></content>
+    <tabTrigger>pagingEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ScrollView Property</description>
+</snippet>

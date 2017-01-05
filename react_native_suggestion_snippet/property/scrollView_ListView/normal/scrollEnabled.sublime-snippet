@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollEnabled]]></content>
+    <tabTrigger>scrollEnabled</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ScrollView Property</description>
+</snippet>

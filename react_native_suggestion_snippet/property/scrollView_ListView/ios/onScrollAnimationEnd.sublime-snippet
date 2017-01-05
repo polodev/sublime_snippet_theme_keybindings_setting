@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onScrollAnimationEnd]]></content>
+    <tabTrigger>onScrollAnimationEnd</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ScrollView ios Property</description>
+</snippet>

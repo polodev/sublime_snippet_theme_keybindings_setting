@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[contentInset]]></content>
+    <tabTrigger>contentInset</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ScrollView ios Property</description>
+</snippet>

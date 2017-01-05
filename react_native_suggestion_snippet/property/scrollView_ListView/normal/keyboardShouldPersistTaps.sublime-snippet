@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[keyboardShouldPersistTaps]]></content>
+    <tabTrigger>keyboardShouldPersistTaps</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ScrollView Property</description>
+</snippet>
