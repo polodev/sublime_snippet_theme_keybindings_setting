@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollTo(...args)]]></content>
+    <tabTrigger>scrollToMethod</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ListView Method</description>
+</snippet>

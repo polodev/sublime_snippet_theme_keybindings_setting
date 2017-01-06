@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollWithoutAnimationTo(y, x)]]></content>
+    <tabTrigger>scrollWithoutAnimationToMethod</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ScrollView Method</description>
+</snippet>

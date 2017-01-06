@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[onEndReached]]></content>
+    <tabTrigger>onEndReached</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ListView Property</description>
+</snippet>

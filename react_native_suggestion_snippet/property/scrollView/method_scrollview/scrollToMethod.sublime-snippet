@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollTo(y?, x?, animated?)]]></content>
+    <tabTrigger>scrollToMethod</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ScrollView Method</description>
+</snippet>

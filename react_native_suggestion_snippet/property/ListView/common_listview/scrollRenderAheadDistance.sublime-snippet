@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[scrollRenderAheadDistance]]></content>
+    <tabTrigger>scrollRenderAheadDistance</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native ListView Property</description>
+</snippet>
