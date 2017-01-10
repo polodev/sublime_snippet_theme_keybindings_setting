@@ -1,7 +1,8 @@
 <snippet>
     <content><![CDATA[var Address = t.struct({
   name: t.String,
-  pincode: t.Number
+  pincode: t.Number,
+  mobileNumber: t.maybe(t.String)
 })]]></content>
     <tabTrigger>tcombstruct</tabTrigger>
     <scope>source.js</scope>
