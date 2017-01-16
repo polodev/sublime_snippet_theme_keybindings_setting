@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[elevation: 2,]]></content>
+    <tabTrigger>elevation</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native android View Style working like box shadow</description>
+</snippet>
