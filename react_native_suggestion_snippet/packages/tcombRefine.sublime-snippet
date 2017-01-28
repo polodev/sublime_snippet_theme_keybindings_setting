@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[var MobileNumber = t.refinement(t.String, function (n) {
+  return n.length >= 10
+})]]></content>
+    <tabTrigger>tcombRefine</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native Basic</description>
+</snippet>
