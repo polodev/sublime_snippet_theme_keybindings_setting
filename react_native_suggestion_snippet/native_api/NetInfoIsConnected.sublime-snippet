@@ -1,5 +1,9 @@
 <snippet>
-    <content><![CDATA[NetInfo.isConnected.addEventListener('change', (isConnected) => {
+    <content><![CDATA[
+NetInfo.isConnected.fetch().then(isConnected => {
+  this.setState({isConnected})
+})
+NetInfo.isConnected.addEventListener('change', (isConnected) => {
   this.setState({isConnected})
 })]]></content>
     <tabTrigger>netInfoIsConnected</tabTrigger>
