@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[NetInfo.isConnected.addEventListener('change', (isConnected) => {
+  this.setState({isConnected})
+})]]></content>
+    <tabTrigger>netInfoIsConnected</tabTrigger>
+    <scope>source.js</scope>
+    <description>React Native api</description>
+</snippet>
