@@ -1,0 +1,32 @@
+<snippet>
+    <content><![CDATA[
+<template>
+  <div>
+    ${0}
+  </div>
+</template>
+
+<script>
+export default {
+  mounted () {
+    
+  },
+  data () {
+    return {
+
+    }
+  },
+  props: [],
+  methods: {
+
+  }
+}
+</script>
+
+<style lang="css">
+</style>
+      ]]></content>
+    <tabTrigger>templatev</tabTrigger>
+    <description>vue template</description>
+</snippet>
+
