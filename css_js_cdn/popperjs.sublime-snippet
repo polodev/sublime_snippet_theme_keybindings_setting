@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-<script data-main="main" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.2.0/require.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>requirejscdn</tabTrigger>
+    <tabTrigger>popperjs</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
     <!-- <scope>source.python</scope> -->
 </snippet>
