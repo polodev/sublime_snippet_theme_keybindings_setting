@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<button type="button" class="btn btn-primary btn-lg btn-block">Block level button</button>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>bs4button</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>text.html</scope>
+</snippet>
+
