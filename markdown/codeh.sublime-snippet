@@ -5,5 +5,5 @@ ${0}
 ~~~
 ]]></content>
     <tabTrigger>codeh</tabTrigger>
-    <scope>text.html.markdown</scope>
+    <!-- <scope>text.html.markdown</scope> -->
 </snippet>
