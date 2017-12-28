@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+public function $1s()
+{
+  return \$this->hasMany(${1/(.+)/\u$1/g}$2::class);
+}
+]]></content>
+    <tabTrigger>lvhasmany</tabTrigger>
+</snippet>

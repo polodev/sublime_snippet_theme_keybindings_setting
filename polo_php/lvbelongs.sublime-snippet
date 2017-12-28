@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+public function $1()
+{
+  return \$this->belongsTo(${1/(.+)/\u$1/g}$2::class);
+}
+]]></content>
+    <tabTrigger>lvbelongs</tabTrigger>
+</snippet>

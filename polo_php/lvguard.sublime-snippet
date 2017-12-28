@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+protected \$guarded = [];
+]]></content>
+    <tabTrigger>lvguard</tabTrigger>
+</snippet>
