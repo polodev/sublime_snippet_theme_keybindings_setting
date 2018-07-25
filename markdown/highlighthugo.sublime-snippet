@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+{{< highlight ${1:php}>}}
+${0}
+{{</ highlight >}}
+]]></content>
+    <tabTrigger>hugohi</tabTrigger>
+    <!-- <scope>text.html.markdown</scope> -->
+</snippet>
